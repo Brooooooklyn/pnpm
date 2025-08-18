@@ -72,6 +72,7 @@ const pickBundledManifest = pick([
   'dependencies',
   'directories',
   'engines',
+  'libc',
   'name',
   'optionalDependencies',
   'os',
